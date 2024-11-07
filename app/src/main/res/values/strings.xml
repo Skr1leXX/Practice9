@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="poem_title">Листопад И.А.Бунин</string>
+    <string name="poem_text">Лес, точно терем расписной,\nЛиловый, золотой, багряный,\nВеселой, пестрою стеной\nСтоит над светлою поляной.</string>
+</resources>
